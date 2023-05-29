@@ -10,5 +10,7 @@ if x == 2:
     print("You selected 2")
 if x == 8964:
     print("The number you entered does not exists")
+if x == 64:
+    print("You humiliate China!!!!")
 else:
     print("You DiD nOt lIsTeN")
