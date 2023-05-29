@@ -12,5 +12,7 @@ if x == 8964:
     print("The number you entered does not exists")
 if x == 64:
     print("You humiliate China!!!!")
+if x == 1949:
+    print("You are a good citizen, Social credit +1000")
 else:
     print("You DiD nOt lIsTeN")
