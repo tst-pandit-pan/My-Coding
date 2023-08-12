@@ -16,3 +16,5 @@ if x == 1949:
     print("You are a good citizen, Social credit +1000")
 else:
     print("You DiD nOt lIsTeN")
+
+print("This is not fun?")
